@@ -5,7 +5,7 @@ specifiers:
   '@tailwindcss/typography': ^0.5.7
   autoprefixer: ^10.4.12
   classnames: ^2.3.2
-  cypress: ^11.0.0
+  cypress: ^12.0.0
   eslint: ^8.24.0
   eslint-config-next: 13.0.6
   eslint-config-prettier: ^8.5.0
@@ -24,7 +24,7 @@ dependencies:
   '@mapbox/rehype-prism': 0.8.0
   '@tailwindcss/typography': 0.5.7_tailwindcss@3.1.8
   classnames: 2.3.2
-  cypress: 11.0.1
+  cypress: 12.0.2
   gray-matter: 4.0.3
   next: 13.0.6_biqbaboplfbrettd7655fr4n2y
   next-mdx-remote: 4.1.0_biqbaboplfbrettd7655fr4n2y
@@ -1314,9 +1314,9 @@ packages:
     resolution: {integrity: sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==}
     dev: false
 
-  /cypress/11.0.1:
-    resolution: {integrity: sha512-NuEfd0Vim492RJ3m/+bbTZ3OZrqXgfAfuLaZfIQ9D5lKocS3EDr2tyAarZdAhKwLyoh7OJ33jwMeMFIDbzYqog==}
-    engines: {node: '>=12.0.0'}
+  /cypress/12.0.2:
+    resolution: {integrity: sha512-WnLx1DpnbF1vbpDBkgP14rK5yS3U+Gvxrv2fsB4Owma26oIyENj7DDRnsJbSZuTfG4mcuUJxAkRHJR2wBqBfMA==}
+    engines: {node: ^14.0.0 || ^16.0.0 || >=18.0.0}
     hasBin: true
     requiresBuild: true
     dependencies:
